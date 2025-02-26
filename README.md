@@ -1,1 +1,1 @@
-# Tesla Income Statement Sankey Chart#
+# Tesla Income Statement Sankey Chart
